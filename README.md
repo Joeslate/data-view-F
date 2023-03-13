@@ -75,7 +75,7 @@ npm run serve
 
 | WeChat              |
 | ------------------- |
-| ![wx](./images/wx.jpg) |
+| ![vx](./images/vx.jpg) |
 
 
 
