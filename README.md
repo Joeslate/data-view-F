@@ -17,7 +17,7 @@
 
 ```js
 // 首先你应当克隆该项目
-git clone https://gitee.com/penggang-home/data-view.git
+git clone xxx.git
 
 // 进入该项目
 cd data-view
@@ -67,29 +67,25 @@ npm run serve
 
 最后，如果你有什么奇怪的想法或者疑惑你都可以联系我，希望我能帮助到你。
 
-- WX：P200048
+- WX：17771570059
 
-- QQ：2845486124
+- QQ：1394775606
 
-- E-Mail：2845486124@qq.com
+- E-Mail：1394775606@qq.com
 
-| QQ                  | WeChat              |
-| ------------------- | ------------------- |
-| ![QQ](./images/qq.jpg) | ![wx](./images/wx.jpg) |
-
-
+| WeChat              |
+| ------------------- |
+| ![wx](./images/wx.jpg) |
 
 
-## 预览地址: [点击预览](https://www.bookbook.cc/vue2/data-view)
 
-## 项目前端地址(当前)：[点击前往](https://gitee.com/penggang-home/data-view)
 
-## 后端地址：[点击前往](https://gitee.com/penggang-home/koa_server)
+## 预览地址: [点击预览](https://47.115.206.69)
 
 ## 说明
 
-如果你觉得本项目对你有帮助的话，请点个 Star 支持一下 🐷(一个赞都没有，太可怜了)
+如果你觉得本项目对你有帮助的话，请 Star 支持一下 
 
-在学习该项目的过程中,如果你遇到任何问题都可以联系我,文末有联系方法。
+在学习该项目的过程中,如果你遇到任何问题都可以联系我
 
-[www.bookbook.cc](https://www.bookbook.cc/) 这是我的个人主页,你也可以在上面找到我的联系方式
+[www.bookbook.cc](joeslate.io/docs) 我的个人主页
